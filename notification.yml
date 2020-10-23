@@ -1,1 +1,6 @@
+spring:
+    cloud:
+        config:
+            allowOverride: true
+            overrideNone: true
 message: Hello World
